@@ -1,2 +1,2 @@
 # Project-Testing
-# added script in post-commit file
+# added build script in post-commit file
